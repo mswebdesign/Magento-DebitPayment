@@ -67,7 +67,7 @@
 "Country","Land"
 "Bank Name","Name der Bank"
 "Debit Payment Bank Data","Lastschrift: Banken"
-"Please enter a valid international bank account number.","Bitte geben Sie eine gültige IBAN an."
+"Please enter a valid international bank account number.","Bitte geben Sie eine gültige deutsche IBAN an."
 "Please enter a valid swift code.","Bitte geben Sie einen gültigen BIC an."
 "Creditor Identification Number","Gläubiger-Identifikationsnummer"
 "Our Creditor Identification Number: %s","Unsere Gläubiger-Identifikationsnummer: %s"

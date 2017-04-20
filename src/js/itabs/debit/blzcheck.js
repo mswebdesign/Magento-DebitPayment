@@ -87,7 +87,7 @@ blzAjaxCheck.prototype = {
             return m;
         };
 
-        if (newIban.search(/^[A-Z]{2}/gi) < 0) {
+        if (newIban.search(/^DE/gi) < 0) {
             return false;
         }
 
